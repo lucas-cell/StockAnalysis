@@ -45,8 +45,6 @@ Supabase: It provides all the backend services.
 
     pip install -r requirements.txt
 
-
-
 # How to use the project
 
 # Contributors
