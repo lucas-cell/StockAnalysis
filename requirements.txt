@@ -1,2 +1,0 @@
-pip install supabase-client
-pip install supabase
