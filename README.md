@@ -1,14 +1,13 @@
 # Sherlock Stock
 
 # What does this project do?
-This project aims to predict stock prices and build stock analysis directories by conducting an investigation of the stock by new, old and creative means. 
 
-# What technologies are used?
+- predict future stock prices
+- build a stock analysis database
+
+# What technologies are used and why?
 python3
 supabase
-
-# Why the technologies?
-Supabase: It provides all the backend services. 
 
 # Table of Contents
 
